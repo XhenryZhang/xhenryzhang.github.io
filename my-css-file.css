@@ -70,6 +70,10 @@ footer {
     width: 200px;
 }
 
+h1, h3 {
+    font-family: sans-serif;
+}
+
 body {
     background-color: grey;
 }
